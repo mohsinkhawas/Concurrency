@@ -1,6 +1,6 @@
-# Concurrency Lab
+# Concurrency Demo App
 
-Concurrency Lab is a macOS SwiftUI app for exploring how different Apple-platform concurrency APIs handle the same image-download workflow. Select an approach, start or cancel a download, and inspect its execution status, thread information, telemetry, and event log. The app also includes an overview and code documentation for each approach.
+Concurrency Demo App is a macOS SwiftUI app for exploring how different Apple-platform concurrency APIs handle the same image-download workflow. Select an approach, start or cancel a download, and inspect its execution status, thread information, telemetry, and event log. The app also includes an overview and code documentation for each approach.
 
 ## Concurrency approaches
 
