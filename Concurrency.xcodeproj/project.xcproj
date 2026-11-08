@@ -41,7 +41,7 @@
         "ENABLE_PREVIEWS": "YES",
         "ENABLE_USER_SELECTED_FILES": "readonly",
         "GENERATE_INFOPLIST_FILE": "YES",
-        "INFOPLIST_KEY_CFBundleDisplayName": "Concurrency Lab",
+        "INFOPLIST_KEY_CFBundleDisplayName": "Concurrency Demo App",
         "INFOPLIST_KEY_LSApplicationCategoryType": "public.app-category.developer-tools",
         "INFOPLIST_KEY_NSHighResolutionCapable": "YES",
         "INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]": "YES",
